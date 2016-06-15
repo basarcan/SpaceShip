@@ -1,0 +1,2 @@
+D:\gameprog\ship\ship\shipContent\obj\x86\Debug\shipContent.contentprojResolveAssemblyReference.cache
+C:\Users\CavitCan\Desktop\EK\EK\Game Project\ship\ship\shipContent\obj\x86\Debug\shipContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ship", "ship\ship\ship.csproj", "{0C84C783-3906-4B60-8B64-ABC5C6BD4815}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "shipContent", "ship\shipContent\shipContent.contentproj", "{AC6EB2E5-D067-4DBD-92E9-FDD3F1DBECC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C84C783-3906-4B60-8B64-ABC5C6BD4815}.Debug|x86.ActiveCfg = Debug|x86
+		{0C84C783-3906-4B60-8B64-ABC5C6BD4815}.Debug|x86.Build.0 = Debug|x86
+		{0C84C783-3906-4B60-8B64-ABC5C6BD4815}.Release|x86.ActiveCfg = Release|x86
+		{0C84C783-3906-4B60-8B64-ABC5C6BD4815}.Release|x86.Build.0 = Release|x86
+		{AC6EB2E5-D067-4DBD-92E9-FDD3F1DBECC7}.Debug|x86.ActiveCfg = Debug|x86
+		{AC6EB2E5-D067-4DBD-92E9-FDD3F1DBECC7}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,52 @@
+D:\gameprog\ship\ship\ship\bin\x86\Debug\ship.exe
+D:\gameprog\ship\ship\ship\bin\x86\Debug\ship.pdb
+D:\gameprog\ship\ship\ship\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\gameprog\ship\ship\ship\obj\x86\Debug\ship.exe
+D:\gameprog\ship\ship\ship\obj\x86\Debug\ship.pdb
+D:\gameprog\ship\ship\ship\bin\x86\Debug\Content\astroid1.xnb
+D:\gameprog\ship\ship\ship\bin\x86\Debug\Content\astroid12.xnb
+D:\gameprog\ship\ship\ship\bin\x86\Debug\Content\background.xnb
+D:\gameprog\ship\ship\ship\bin\x86\Debug\Content\leftAnimation.xnb
+D:\gameprog\ship\ship\ship\bin\x86\Debug\Content\middleAnimation.xnb
+D:\gameprog\ship\ship\ship\bin\x86\Debug\Content\rightAnimation.xnb
+D:\gameprog\ship\ship\ship\bin\x86\Debug\Content\trick.xnb
+D:\gameprog\ship\ship\ship\bin\x86\Debug\Content\trick1.xnb
+D:\gameprog\ship\ship\ship\bin\x86\Debug\Content\explode.xnb
+D:\gameprog\ship\ship\ship\bin\x86\Debug\Content\ScoreTrick.xnb
+D:\gameprog\ship\ship\ship\bin\x86\Debug\Content\numbers.xnb
+D:\gameprog\ship\ship\ship\bin\x86\Debug\Content\shipsound.xnb
+D:\gameprog\ship\ship\ship\bin\x86\Debug\Content\shipsounds.xnb
+D:\gameprog\ship\ship\ship\bin\x86\Debug\Content\shipsounds.wma
+D:\gameprog\ship\ship\ship\bin\x86\Debug\Content\menuImage.xnb
+D:\gameprog\ship\ship\ship\bin\x86\Debug\Content\gameOver.xnb
+D:\gameprog\ship\ship\ship\bin\x86\Debug\Content\scoreBoard.xnb
+D:\gameprog\ship\ship\ship\bin\x86\Debug\Content\movements.xnb
+D:\gameprog\ship\ship\ship\bin\x86\Debug\Content\pointNum.xnb
+D:\gameprog\ship\ship\ship\bin\x86\Debug\Content\explode1.xnb
+D:\gameprog\ship\ship\ship\obj\x86\Debug\ship.csprojResolveAssemblyReference.cache
+C:\Users\CavitCan\Desktop\EK\EK\Game Project\ship\ship\ship\bin\x86\Debug\Content\astroid1.xnb
+C:\Users\CavitCan\Desktop\EK\EK\Game Project\ship\ship\ship\bin\x86\Debug\Content\astroid12.xnb
+C:\Users\CavitCan\Desktop\EK\EK\Game Project\ship\ship\ship\bin\x86\Debug\Content\background.xnb
+C:\Users\CavitCan\Desktop\EK\EK\Game Project\ship\ship\ship\bin\x86\Debug\Content\leftAnimation.xnb
+C:\Users\CavitCan\Desktop\EK\EK\Game Project\ship\ship\ship\bin\x86\Debug\Content\middleAnimation.xnb
+C:\Users\CavitCan\Desktop\EK\EK\Game Project\ship\ship\ship\bin\x86\Debug\Content\rightAnimation.xnb
+C:\Users\CavitCan\Desktop\EK\EK\Game Project\ship\ship\ship\bin\x86\Debug\Content\trick.xnb
+C:\Users\CavitCan\Desktop\EK\EK\Game Project\ship\ship\ship\bin\x86\Debug\Content\trick1.xnb
+C:\Users\CavitCan\Desktop\EK\EK\Game Project\ship\ship\ship\bin\x86\Debug\Content\explode.xnb
+C:\Users\CavitCan\Desktop\EK\EK\Game Project\ship\ship\ship\bin\x86\Debug\Content\ScoreTrick.xnb
+C:\Users\CavitCan\Desktop\EK\EK\Game Project\ship\ship\ship\bin\x86\Debug\Content\numbers.xnb
+C:\Users\CavitCan\Desktop\EK\EK\Game Project\ship\ship\ship\bin\x86\Debug\Content\menuImage.xnb
+C:\Users\CavitCan\Desktop\EK\EK\Game Project\ship\ship\ship\bin\x86\Debug\Content\gameOver.xnb
+C:\Users\CavitCan\Desktop\EK\EK\Game Project\ship\ship\ship\bin\x86\Debug\Content\scoreBoard.xnb
+C:\Users\CavitCan\Desktop\EK\EK\Game Project\ship\ship\ship\bin\x86\Debug\Content\shipsound.xnb
+C:\Users\CavitCan\Desktop\EK\EK\Game Project\ship\ship\ship\bin\x86\Debug\Content\movements.xnb
+C:\Users\CavitCan\Desktop\EK\EK\Game Project\ship\ship\ship\bin\x86\Debug\Content\pointNum.xnb
+C:\Users\CavitCan\Desktop\EK\EK\Game Project\ship\ship\ship\bin\x86\Debug\Content\explode1.xnb
+C:\Users\CavitCan\Desktop\EK\EK\Game Project\ship\ship\ship\bin\x86\Debug\Content\shipsounds.xnb
+C:\Users\CavitCan\Desktop\EK\EK\Game Project\ship\ship\ship\bin\x86\Debug\Content\shipsounds.wma
+C:\Users\CavitCan\Desktop\EK\EK\Game Project\ship\ship\ship\bin\x86\Debug\ship.exe
+C:\Users\CavitCan\Desktop\EK\EK\Game Project\ship\ship\ship\bin\x86\Debug\ship.pdb
+C:\Users\CavitCan\Desktop\EK\EK\Game Project\ship\ship\ship\obj\x86\Debug\ship.csprojResolveAssemblyReference.cache
+C:\Users\CavitCan\Desktop\EK\EK\Game Project\ship\ship\ship\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\CavitCan\Desktop\EK\EK\Game Project\ship\ship\ship\obj\x86\Debug\ship.exe
+C:\Users\CavitCan\Desktop\EK\EK\Game Project\ship\ship\ship\obj\x86\Debug\ship.pdb
